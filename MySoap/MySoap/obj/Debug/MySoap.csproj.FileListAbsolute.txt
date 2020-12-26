@@ -1,0 +1,7 @@
+C:\Users\YESID\source\repos\MySoap\MySoap\bin\MySoap.dll.config
+C:\Users\YESID\source\repos\MySoap\MySoap\bin\MySoap.dll
+C:\Users\YESID\source\repos\MySoap\MySoap\bin\MySoap.pdb
+C:\Users\YESID\source\repos\MySoap\MySoap\obj\Debug\MySoap.csprojAssemblyReference.cache
+C:\Users\YESID\source\repos\MySoap\MySoap\obj\Debug\MySoap.csproj.CoreCompileInputs.cache
+C:\Users\YESID\source\repos\MySoap\MySoap\obj\Debug\MySoap.dll
+C:\Users\YESID\source\repos\MySoap\MySoap\obj\Debug\MySoap.pdb

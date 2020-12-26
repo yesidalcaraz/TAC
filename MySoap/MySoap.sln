@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySoap", "MySoap\MySoap.csproj", "{B7A3EBBF-2E45-4BE0-B9BA-69127751DE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{F833F4ED-CFE2-43EC-B83A-116B6B55EC68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B7A3EBBF-2E45-4BE0-B9BA-69127751DE48} = {B7A3EBBF-2E45-4BE0-B9BA-69127751DE48}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A3EBBF-2E45-4BE0-B9BA-69127751DE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A3EBBF-2E45-4BE0-B9BA-69127751DE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A3EBBF-2E45-4BE0-B9BA-69127751DE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A3EBBF-2E45-4BE0-B9BA-69127751DE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F833F4ED-CFE2-43EC-B83A-116B6B55EC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F833F4ED-CFE2-43EC-B83A-116B6B55EC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F833F4ED-CFE2-43EC-B83A-116B6B55EC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F833F4ED-CFE2-43EC-B83A-116B6B55EC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54B70D1-7464-4B36-9130-0C1FB85D9307}
+	EndGlobalSection
+EndGlobal
